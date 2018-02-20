@@ -1,7 +1,7 @@
 # Alarm-Clock-Use-Case-Diagram
 Wentao Song
 
-https://github.com/qwqq741741/Alarm-Clock-Use-Case-Diagram/raw/master/Alarm Clock.png
+https://github.com/qwqq741741/Alarm-Clock-Use-Case-Diagram/raw/master/Alarm-Clock.png
 
 Suppose we want to develop software for an alarm clock.
 
